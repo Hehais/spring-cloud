@@ -1,0 +1,11 @@
+
+server:
+  port: 8030
+
+spring:
+  application:
+    name: microservice-consumer-movie-ribbon-without-eureka
+
+microservice-provider-user:
+  ribbon:
+    listOfServers: localhost:8000,localhost:8001
