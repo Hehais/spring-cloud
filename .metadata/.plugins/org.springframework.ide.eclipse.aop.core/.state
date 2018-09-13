@@ -3,4 +3,7 @@
 <aop-project name="microservice-simple-provider-user"/>
 <aop-project name="microservice-provider-user"/>
 <aop-project name="microservice-simple-consumer-movie"/>
+<aop-project name="microservice-discovery-eureka-ha"/>
+<aop-project name="microservice-consumer-movie"/>
+<aop-project name="microservice-discovery-eureka"/>
 </aop-reference-model>
