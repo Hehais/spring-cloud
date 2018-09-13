@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model/>
+<aop-reference-model>
+<aop-project name="microservice-simple-provider-user"/>
+<aop-project name="microservice-provider-user"/>
+<aop-project name="microservice-simple-consumer-movie"/>
+</aop-reference-model>
