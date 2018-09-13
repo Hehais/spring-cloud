@@ -5,7 +5,7 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2018-09-13T06:01:32Z</updated>
+  <updated>2018-09-13T06:01:00Z</updated>
   <entry>
     <title>Spring Boot 2.1 M3 available now</title>
     <link rel="alternate" href="https://spring.io/blog/2018/09/13/spring-boot-2-1-m3-available-now" />
@@ -14,8 +14,8 @@
       <name>Phil Webb</name>
     </author>
     <id>tag:spring.io,2018-09-13:3393</id>
-    <updated>2018-09-13T06:01:32Z</updated>
-    <content type="html">&lt;p&gt;On behalf of the team and everyone that contributed, I am pleased to announce that the third milestone of Spring Boot 2.1 has been released and is available from &lt;a href="http://repo.spring.io/milestone/"&gt;our milestone repository&lt;/a&gt;. This release closes &lt;a href="https://github.com/spring-projects/spring-boot/milestone/117?closed=1"&gt;117 issues and pull requests&lt;/a&gt;!&lt;/p&gt;
+    <updated>2018-09-13T06:01:00Z</updated>
+    <content type="html">&lt;p&gt;On behalf of the team and everyone that contributed, I am pleased to announce that the third milestone of Spring Boot 2.1 has been released and is available from &lt;a href="http://repo.spring.io/milestone/"&gt;our milestone repository&lt;/a&gt;. This release closes &lt;a href="https://github.com/spring-projects/spring-boot/releases/tag/v2.1.0.M3"&gt;117 issues and pull requests&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;This third milestone aligns with &lt;a href="https://spring.io/blog/2018/09/07/spring-framework-5-1-rc3-5-0-9-and-4-3-19-available-now"&gt;Spring Framework 5.1.RC3&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Highlights in this release include:&lt;/p&gt;
 &lt;ul&gt;
