@@ -5,7 +5,6 @@ Built-By: hehai
 Implementation-Vendor-Id: com.uzengroup.cloud
 Build-Jdk: 1.8.0_111
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/spring-cloud-microservice-study/microservice-discov
- ery-eureka
+ ot-starter-parent/microservice-discovery-eureka
 Created-By: Maven Integration for Eclipse
 
