@@ -44,4 +44,6 @@
 <fullyQualifiedTypeName name="org.springframework.boot.builder.SpringApplicationBuilder"/>
 <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
 <fullyQualifiedTypeName name="com.uzengroup.ConsulApplication"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.hystrix.EnableHystrix"/>
+<fullyQualifiedTypeName name="com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand"/>
 </qualifiedTypeNameHistroy>

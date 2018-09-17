@@ -1,0 +1,17 @@
+server:
+  port: 8010
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        healthCheckPath: /actuator/health
+        healthCheckInterval: 15s
+        instance-id: microservice-consumer-movie-feign-hystrix
+  application:
+    name: microservice-consumer-movie-feign-hystrix
+    
+feign:
+  hystrix:
+    enabled: true   #开启熔断器

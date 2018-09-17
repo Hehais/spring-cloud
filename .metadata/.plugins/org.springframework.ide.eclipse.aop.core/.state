@@ -16,4 +16,5 @@
 <aop-project name="microservice-simple-consumer-movie"/>
 <aop-project name="microservice-provider-consul-user"/>
 <aop-project name="microservice-discovery-eureka"/>
+<aop-project name="microservice-consumer-movie-ribbon-hystrix"/>
 </aop-reference-model>

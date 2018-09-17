@@ -1,0 +1,15 @@
+server:
+  port: 8010
+
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        healthCheckPath: /actuator/health
+        healthCheckInterval: 15s
+        instance-id: microservice-consumer-movie-ribbon-hystrix
+  application:
+    name: microservice-consumer-movie-ribbon-hystrix
+   
